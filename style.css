@@ -1,0 +1,13 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+.successBtn{
+    font-weight: bold;
+    color: darkolivegreen;
+}
+.errorBtn{
+    font-weight: bold;
+    color:darkred;
+}
